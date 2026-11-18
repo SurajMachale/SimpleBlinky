@@ -1,4 +1,4 @@
-# SimpleBlinky - STM32 Nucleo LED Blink (QA documented)
+# SimpleBlinky - STM32 Nucleo LED Blink 
 
 Minimal STM32 HAL firmware that blinks the green user LED (LD1, PB0) of a Nucleo-144 board.
 This repository is used for the Project Management activity
